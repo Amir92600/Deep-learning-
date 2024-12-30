@@ -29,11 +29,11 @@ Ce projet a pour objectifs de :
 ## **Structure du dépôt**
 
 ```plaintext
-├── transfert_neuronal_fonctions_utiles.ipynb                    # Scripts principaux du projet
-├── mes résultats/           # Résultats des expérimentations
 ├── images/                  # Dossier d'images pour tester le modèle
+├── mes résultats/           # Résultats des expérimentations
 ├── LICENSE.md               # Détails sur la licence utilisée
-└── README.md                # Documentation complète
+├── README.md                # Documentation complète
+└──transfert_neuronal_fonctions_utiles.ipynb                    # Scripts principaux du projet 
 ```
 ---
 
