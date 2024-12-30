@@ -35,6 +35,8 @@ Ce projet a pour objectifs de :
 ├── LICENSE.md               # Détails sur la licence utilisée
 └── README.md                # Documentation complète
 
+---
+
 # **Licence**
 
 Ce projet est sous licence **GPL-3.0**, en raison de son inspiration initiale par un projet sous cette licence. Cela signifie que :
