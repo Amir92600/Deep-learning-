@@ -1,4 +1,4 @@
-# **Projet Deep Learning : modèle d'IA génératrice d'images avec un style prédéfinie **
+# *Projet Deep Learning : modèle d'IA génératrice d'images avec un style prédéfinie *
  
 Ce projet vise à proposer une solution flexible et personnalisable dans le domaine de l'intelligence artificielle, avec une approche axée sur la personnalisation et l’adaptabilité. Initialement inspiré par le projet d'[Anis Ayari](https://github.com/anisayari/Youtube-apprendre-le-deeplearning-avec-tensorflow), ce projet a été entièrement réécrit pour mieux répondre aux besoins des utilisateurs, avec une banque d'images personnalisable et un code optimisé.
 
