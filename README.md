@@ -34,7 +34,7 @@ Ce projet a pour objectifs de :
 ├── images/                  # Dossier d'images pour tester le modèle
 ├── LICENSE.md               # Détails sur la licence utilisée
 └── README.md                # Documentation complète
-
+```
 ---
 
 # **Licence**
